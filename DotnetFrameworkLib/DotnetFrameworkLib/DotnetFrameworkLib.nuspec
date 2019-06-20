@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>MeeHealth</authors>
+    <owners>MeeHealth</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>The first release.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>.NET Framework</tags>
+  </metadata>
+</package>
