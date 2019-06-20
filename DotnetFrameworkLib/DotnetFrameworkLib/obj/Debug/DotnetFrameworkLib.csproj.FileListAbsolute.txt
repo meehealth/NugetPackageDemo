@@ -1,6 +1,0 @@
-C:\Users\wagne\source\repos\DotnetFrameworkLib\DotnetFrameworkLib\bin\Debug\DotnetFrameworkLib.dll
-C:\Users\wagne\source\repos\DotnetFrameworkLib\DotnetFrameworkLib\bin\Debug\DotnetFrameworkLib.pdb
-C:\Users\wagne\source\repos\DotnetFrameworkLib\DotnetFrameworkLib\obj\Debug\DotnetFrameworkLib.csproj.CoreCompileInputs.cache
-C:\Users\wagne\source\repos\DotnetFrameworkLib\DotnetFrameworkLib\obj\Debug\DotnetFrameworkLib.dll
-C:\Users\wagne\source\repos\DotnetFrameworkLib\DotnetFrameworkLib\obj\Debug\DotnetFrameworkLib.pdb
-C:\Users\wagne\source\repos\DotnetFrameworkLib\DotnetFrameworkLib\obj\Debug\DotnetFrameworkLib.csprojAssemblyReference.cache
